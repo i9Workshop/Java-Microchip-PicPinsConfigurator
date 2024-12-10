@@ -2,7 +2,7 @@
 ,,,,,
 ,Initialize Type,0,,,
 ,,,,,
-No.,Pin Label,Custom Name,Direction,Analog Enable, Analog Define
+No.,Pin Label,Custom Name,Direction,Analog Enable,Analog Define
 1,RB14,,0,0,0
 2,RB15,,0,0,0
 3,RC12,,0,0,0
